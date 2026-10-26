@@ -1,0 +1,4 @@
+
+
+; ---------- Episode 18: Direction of Prayer ----------
+Base: rAthena Commit d4b8e7b
